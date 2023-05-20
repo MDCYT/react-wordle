@@ -36,7 +36,7 @@ export const Navbar = ({
             />
           )}
         </div>
-        <p className="text-6xl text-white dark:text-white font-Hello">{GAME_TITLE}</p>
+        <p className="md:text-6xl text-white dark:text-white font-Hello text-xl">{GAME_TITLE}</p>
         <div className="right-icons">
           <ChartBarIcon
             className="mr-3 h-6 w-6 cursor-pointer dark:stroke-white"

@@ -8,6 +8,9 @@ module.exports = {
         xshort: { raw: '(max-height: 560px)' },
         xxshort: { raw: '(max-height: 490px)' },
       },
+      fontFamily: {
+        Hello: ["Hello", 'Hello', 'Linux Libertine', 'Times New Roman', 'Liberation Serif', 'Nimbus Roman', 'Noto Serif', 'Times', 'serif'] // or any other font-family name. Learn more @ https://codegeex.cn
+      }
     },
   },
   plugins: [require('@tailwindcss/forms')],

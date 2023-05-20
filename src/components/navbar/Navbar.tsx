@@ -22,7 +22,7 @@ export const Navbar = ({
   setIsSettingsModalOpen,
 }: Props) => {
   return (
-    <div className="navbar">
+    <div className="navbar bg-gradient-to-t	 from-[#c2e3fe] to-[#A6D5FF] dark:from-[#0B0F1B] dark:to-[#101A29]">
       <div className="navbar-content px-5 short:h-auto">
         <div className="flex">
           <InformationCircleIcon
@@ -36,7 +36,7 @@ export const Navbar = ({
             />
           )}
         </div>
-        <p className="text-xl font-bold dark:text-white">{GAME_TITLE}</p>
+        <p className="text-6xl text-white dark:text-white font-Hello">{GAME_TITLE}</p>
         <div className="right-icons">
           <ChartBarIcon
             className="mr-3 h-6 w-6 cursor-pointer dark:stroke-white"

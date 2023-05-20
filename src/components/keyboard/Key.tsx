@@ -27,10 +27,10 @@ export const Key = ({
   const isHighContrast = getStoredIsHighContrastMode()
 
   const classes = classnames(
-    'xxshort:h-8 xxshort:w-8 xxshort:text-xxs xshort:w-10 xshort:h-10 flex short:h-12 h-14 items-center justify-center rounded mx-0.5 text-xs font-bold cursor-pointer select-none dark:text-white',
+    'xxshort:h-8 xxshort:w-8 xxshort:text-xxs xshort:w-10 xshort:h-10 flex short:h-12 h-14 items-center justify-center rounded-lg mx-0.5 text-xs font-Hello cursor-pointer select-none dark:text-white',
     {
       'transition ease-in-out': isRevealing,
-      'bg-slate-200 dark:bg-slate-600 hover:bg-slate-300 active:bg-slate-400':
+      'bg-white dark:bg-slate-600 hover:bg-[#4e4e7a] active:bg-slate-400 hover:text-white text-[#5a5a87] dark:hover:bg-[#101A29]':
         !status,
       'bg-slate-400 dark:bg-slate-800 text-white': status === 'absent',
       'bg-orange-500 hover:bg-orange-600 active:bg-orange-700 text-white':

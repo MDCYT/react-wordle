@@ -9,7 +9,7 @@ export const WORDS = [
   "rita",
   "abc",
   "ludo",
-   "bluey",
+  "bluey",
   "iview",
   "judo",
   "nana",

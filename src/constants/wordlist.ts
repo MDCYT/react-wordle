@@ -1,6 +1,4 @@
 export const WORDS = [
-  "bluey",
-  "iview",
   "chilli",
   "heeler",
   "lila",
@@ -11,6 +9,8 @@ export const WORDS = [
   "rita",
   "abc",
   "ludo",
+   "bluey",
+  "iview",
   "judo",
   "nana",
   "brandy",

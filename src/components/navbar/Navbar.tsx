@@ -36,6 +36,7 @@ export const Navbar = ({
             />
           )}
         </div>
+        <h1 className="hidden">Bluey Wordle - Blueyle</h1>
         <p className="md:text-6xl text-white dark:text-white font-Hello text-xl">{GAME_TITLE}</p>
         <div className="right-icons">
           <ChartBarIcon

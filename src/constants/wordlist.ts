@@ -80,7 +80,7 @@ export const WORDS = [
   "hotel",
   "sheila",
   "curryquest",
-  "nusker",
+  "busker",
   "queens",
   "hercules",
   "chubbles",

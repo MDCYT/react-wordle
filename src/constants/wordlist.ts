@@ -104,5 +104,12 @@ export const WORDS = [
   "dusty",
   "buddy",
   "exercise",
-  "fairytale"
+  "fairytale",
+  "slide",
+  "joffbrush",
+  "stickbird",
+  "space",
+  "bilby",
+  "pavlova",
+  "housework"
 ]

@@ -112,5 +112,6 @@ export const WORDS = [
   "bilby",
   "pavlova",
   "housework",
-  "wildgirls"
+  "wildgirls",
+  "barkyboats"
 ]
